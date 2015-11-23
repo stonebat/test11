@@ -16,5 +16,3 @@ More Line
 16th line
 17th ine
 18th line
-
-20th line
